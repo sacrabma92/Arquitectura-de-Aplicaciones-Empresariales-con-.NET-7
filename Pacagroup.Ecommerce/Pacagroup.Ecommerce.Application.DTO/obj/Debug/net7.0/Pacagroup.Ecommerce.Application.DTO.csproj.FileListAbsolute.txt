@@ -1,0 +1,12 @@
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.deps.json
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.pdb
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.AssemblyInfoInputs.cache
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.AssemblyInfo.cs
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net7.0\refint\Pacagroup.Ecommerce.Application.DTO.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.pdb
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\net7.0\ref\Pacagroup.Ecommerce.Application.DTO.dll

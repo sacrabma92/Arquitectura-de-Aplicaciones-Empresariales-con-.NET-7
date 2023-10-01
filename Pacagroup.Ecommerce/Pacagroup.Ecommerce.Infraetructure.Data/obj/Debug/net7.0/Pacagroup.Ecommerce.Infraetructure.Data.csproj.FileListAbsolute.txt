@@ -1,0 +1,15 @@
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\bin\Debug\net7.0\Pacagroup.Ecommerce.Infraetructure.Data.deps.json
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\bin\Debug\net7.0\Pacagroup.Ecommerce.Infraetructure.Data.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\bin\Debug\net7.0\Pacagroup.Ecommerce.Infraetructure.Data.pdb
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\obj\Debug\net7.0\Pacagroup.Ecommerce.Infraetructure.Data.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\obj\Debug\net7.0\Pacagroup.Ecommerce.Infraetructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\obj\Debug\net7.0\Pacagroup.Ecommerce.Infraetructure.Data.AssemblyInfoInputs.cache
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\obj\Debug\net7.0\Pacagroup.Ecommerce.Infraetructure.Data.AssemblyInfo.cs
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\obj\Debug\net7.0\Pacagroup.Ecommerce.Infraetructure.Data.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\obj\Debug\net7.0\Pacagroup.Ecommerce.Infraetructure.Data.csproj.CopyComplete
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\obj\Debug\net7.0\Pacagroup.Ecommerce.Infraetructure.Data.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\obj\Debug\net7.0\refint\Pacagroup.Ecommerce.Infraetructure.Data.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\obj\Debug\net7.0\Pacagroup.Ecommerce.Infraetructure.Data.pdb
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infraetructure.Data\obj\Debug\net7.0\ref\Pacagroup.Ecommerce.Infraetructure.Data.dll

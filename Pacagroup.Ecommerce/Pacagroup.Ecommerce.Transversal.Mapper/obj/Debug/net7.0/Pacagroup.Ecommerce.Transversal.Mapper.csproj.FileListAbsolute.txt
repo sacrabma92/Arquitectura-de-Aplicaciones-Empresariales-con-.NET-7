@@ -1,0 +1,17 @@
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Mapper.deps.json
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Mapper.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\net7.0\Pacagroup.Ecommerce.Domain.Entity.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.pdb
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\net7.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfoInputs.cache
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfo.cs
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CopyComplete
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Mapper.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net7.0\refint\Pacagroup.Ecommerce.Transversal.Mapper.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net7.0\ref\Pacagroup.Ecommerce.Transversal.Mapper.dll

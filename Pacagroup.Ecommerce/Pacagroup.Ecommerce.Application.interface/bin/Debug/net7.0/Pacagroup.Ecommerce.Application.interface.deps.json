@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Pacagroup.Ecommerce.Application.interface/1.0.0": {
+        "dependencies": {
+          "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
+          "Pacagroup.Ecommerce.Domain.Entity": "1.0.0",
+          "Pacagroup.Ecommerce.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Pacagroup.Ecommerce.Application.interface.dll": {}
+        }
+      },
+      "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
+        "runtime": {
+          "Pacagroup.Ecommerce.Application.DTO.dll": {}
+        }
+      },
+      "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Pacagroup.Ecommerce.Domain.Entity.dll": {}
+        }
+      },
+      "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Pacagroup.Ecommerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pacagroup.Ecommerce.Application.interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

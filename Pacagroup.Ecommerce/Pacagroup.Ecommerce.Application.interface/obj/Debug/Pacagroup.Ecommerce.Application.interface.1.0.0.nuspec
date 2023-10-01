@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Pacagroup.Ecommerce.Application.interface</id>
+    <version>1.0.0</version>
+    <authors>Pacagroup.Ecommerce.Application.interface</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.interface.dll" target="lib\net7.0\Pacagroup.Ecommerce.Application.interface.dll" />
+  </files>
+</package>

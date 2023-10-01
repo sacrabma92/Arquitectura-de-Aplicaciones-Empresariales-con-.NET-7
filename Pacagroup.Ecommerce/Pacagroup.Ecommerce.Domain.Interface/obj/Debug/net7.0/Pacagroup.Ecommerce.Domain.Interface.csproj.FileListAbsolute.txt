@@ -1,0 +1,15 @@
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Domain.Interface.deps.json
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Domain.Interface.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Domain.Interface.pdb
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Domain.Entity.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net7.0\Pacagroup.Ecommerce.Domain.Interface.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net7.0\Pacagroup.Ecommerce.Domain.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net7.0\Pacagroup.Ecommerce.Domain.Interface.AssemblyInfoInputs.cache
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net7.0\Pacagroup.Ecommerce.Domain.Interface.AssemblyInfo.cs
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net7.0\Pacagroup.Ecommerce.Domain.Interface.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net7.0\Pacagroup.Ecommerce.Domain.Interface.csproj.CopyComplete
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net7.0\Pacagroup.Ecommerce.Domain.Interface.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net7.0\refint\Pacagroup.Ecommerce.Domain.Interface.dll
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net7.0\Pacagroup.Ecommerce.Domain.Interface.pdb
+D:\PROYECTOS\C#\Arquitectura de Aplicaciones Empresariales NET 7\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Interface\obj\Debug\net7.0\ref\Pacagroup.Ecommerce.Domain.Interface.dll

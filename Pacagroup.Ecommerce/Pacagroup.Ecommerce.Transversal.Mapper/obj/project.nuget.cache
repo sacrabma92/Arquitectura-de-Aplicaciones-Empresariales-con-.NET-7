@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RkEyaj2WjExQAlWjUJvFSDJi/JGc73C21zUaYgNLCjg97ym/j9OTBt3/nkM67SwAJLXlBRC2CUSmSW7cFECRaw==",
+  "success": true,
+  "projectFilePath": "D:\\PROYECTOS\\C#\\Arquitectura de Aplicaciones Empresariales NET 7\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Mapper\\Pacagroup.Ecommerce.Transversal.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karlo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\karlo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
